@@ -552,20 +552,20 @@ section#gap-section {
 .gap-parent-container {
   display: flex;
   flex-wrap: wrap;
-  gap: 30px;
+  gap: 20px;
 }
 
 .row-gap-parent-container {
   display: flex; 
   flex-wrap: wrap;
-  row-gap: 30px;
+  row-gap: 20px;
 }
 
 .column-gap-parent-container {
   /* place your code here */
   display:flex;
   flex-wrap: wrap;
-  column-gap: 30px;
+  column-gap: 20px;
 }
 
 /* end gap */
